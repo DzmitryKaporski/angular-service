@@ -1,0 +1,26 @@
+/* You can add global styles to this file, and also import other style files */
+.wrap {
+  display: flex;
+}
+
+.border {
+  margin: 1rem;
+  padding: 0.5rem;
+  width: 5rem;
+  text-align: center;
+  border: solid 1px blue;
+}
+
+.block-counter {
+  display: block;
+  width: 1rem;
+  margin: 1rem;
+  padding: 1rem;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 0 5px red;
+}
+
+button {
+  margin: 0.2rem;
+}
