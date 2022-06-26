@@ -1,4 +1,4 @@
-# Deploy: [angular-props](https://angular-service.surge.sh/)
+# Deploy: [angular-service](https://angular-service.surge.sh/)
 
 # AngularService
 
